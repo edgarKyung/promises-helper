@@ -1,0 +1,17 @@
+{
+  "name": "promises-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "nhyun.kyung",
+    "email": "edgar.kyung@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.5.1"
+  }
+}
