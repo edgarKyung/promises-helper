@@ -1,17 +1,25 @@
 {
   "name": "promises-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Multirun promise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": {
-    "name": "nhyun.kyung",
-    "email": "edgar.kyung@gmail.com"
-  },
+  "author": "nhyun.kyung <edgar.kyung@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "q": "^1.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarKyung/promises-helper.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "bugs": {
+    "url": "https://github.com/edgarKyung/promises-helper/issues"
+  },
+  "homepage": "https://github.com/edgarKyung/promises-helper#readme"
 }
